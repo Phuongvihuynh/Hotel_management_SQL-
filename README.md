@@ -1,1 +1,2 @@
-# Hotel_management_SQL-
+# Hotel management Database 
+# Building a Relational Database using SQL Server
